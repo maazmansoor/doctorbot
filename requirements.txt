@@ -1,3 +1,4 @@
+langchain-text-splitters
 streamlit
 google-generativeai
 python-dotenv
@@ -13,4 +14,5 @@ langchain-openai
 langchain-community
 python-dotenv
 faiss-cpu
+
 pypdf
